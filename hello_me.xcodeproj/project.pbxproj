@@ -22,6 +22,7 @@
 		7C80E59429B7BE46002D8028 /* game_object.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C80E59329B7BE46002D8028 /* game_object.swift */; };
 		7C80E59629B7F9ED002D8028 /* gift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C80E59529B7F9ED002D8028 /* gift.swift */; };
 		7C80E59A29B9128C002D8028 /* collectable_box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C80E59929B9128C002D8028 /* collectable_box.swift */; };
+		7CC449D329F80C4600A1FA01 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7CC449D229F80C4600A1FA01 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		7C80E59329B7BE46002D8028 /* game_object.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = game_object.swift; sourceTree = "<group>"; };
 		7C80E59529B7F9ED002D8028 /* gift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gift.swift; sourceTree = "<group>"; };
 		7C80E59929B9128C002D8028 /* collectable_box.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = collectable_box.swift; sourceTree = "<group>"; };
+		7CC449D229F80C4600A1FA01 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		7C80E51C29B6789E002D8028 = {
 			isa = PBXGroup;
 			children = (
+				7CC449D229F80C4600A1FA01 /* README.md */,
 				7C80E52129B6789E002D8028 /* hello_me Shared */,
 				7C80E53C29B6789F002D8028 /* hello_me macOS */,
 				7C80E52B29B6789F002D8028 /* Products */,
@@ -166,6 +169,7 @@
 				7C37A95A29BE994B00F4B02A /* jump.mp3 in Resources */,
 				7C37A95B29BE994B00F4B02A /* success.wav in Resources */,
 				7C80E54629B6789F002D8028 /* Actions.sks in Resources */,
+				7CC449D329F80C4600A1FA01 /* README.md in Resources */,
 				7C37A95929BE994B00F4B02A /* game_over.wav in Resources */,
 				7C37A95829BE994B00F4B02A /* find_letter.wav in Resources */,
 			);

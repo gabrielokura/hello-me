@@ -2,13 +2,13 @@
 
 My first challenge at Apple Developer Academy. 
 
-I wanted to create a minigame that shows, step by step, a curious information about me.
+I wanted to create a minigame that shows, step by step, a curious information about me. 
 
-It uses SpriteKit and UIKit. The audios are played using SKActions. 
+### **Tech Stack**
 
-**CBLD informations**
+It uses SpriteKit and UIKit. The audios are played using SKActions.
 
-### **ENGAGE**
+### **CBLD informations**
 
 **Big Idea**: Eu!
 
